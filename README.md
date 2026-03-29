@@ -2,7 +2,7 @@
 > Software developer in progress & QA intern · Flask · JavaScript · API Testing · Automation
 
 ## About Me
-I'm a diploma student and UAT testing intern who builds and breaks things for a living. During the day I validate APIs and user flows; on the side I'm building a full placement portal from the ground up. I enjoy working on backend logic, figuring out how systems fit together, and slowly making Playwright do my bidding.
+I'm a diploma student and UAT testing intern who builds and breaks things. During the day I validate APIs and user flows; on the side I'm building a full placement portal from the ground up. I enjoy working on backend logic, figuring out how systems fit together, and slowly making Playwright do my bidding.
 
 ## Tech Stack
 
